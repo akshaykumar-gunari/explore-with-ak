@@ -48,7 +48,7 @@ mkdocs gh-deploy --force
 ---
 
 ## Repo structure
-
+```
 explore-with-ak/
 ├── .github/
 │   └── workflows/
@@ -63,3 +63,4 @@ explore-with-ak/
 ├── mkdocs.yml
 ├── requirements.txt
 └── README.md
+```
