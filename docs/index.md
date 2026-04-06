@@ -63,13 +63,13 @@ Think of this less like a polished textbook and more like an **open engineering 
 
 ## About Me
 
-Hi, I’m **AK**.
+Hey there, I’m **AK**.
 
-I’m a software engineer focused on building a strong foundation in:
+I’m a Software Engineer focused on building a strong foundation in:
 
+- Artificial Intelligence and Machine Learning
 - Systems (Linux Kernel, low-level programming)
 - Mathematics for computing
-- Artificial Intelligence and Machine Learning
 
 This project is my way of:
 - Learning deeply instead of superficially  
