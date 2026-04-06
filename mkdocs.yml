@@ -1,0 +1,84 @@
+site_name: Explore with AK
+site_url: https://akshaykumar-gunari.github.io/explore-with-ak/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - header.autohide
+    - navigation.footer
+    - announce.dismiss
+    - search.suggest
+    - seatch.highlight
+    - search.share
+
+  language: en
+  font:
+    code: Roboto Mono
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/akshaykumar-gunari
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/AkshaykumarGun2
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/akshaykumar-gunari-59b132167/
+
+plugins:
+  - search
+  - git-authors
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; 2026 <a href="https://github.com/akshaykumar-gunari"  target="_blank" rel="noopener">Akshaykumar Gunari | AK </a>
+
