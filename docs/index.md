@@ -18,7 +18,7 @@ from low-level systems to high-level machine learning concepts.
     Explore how Linux actually works beneath the surface — from process management and memory handling to interrupts, scheduling, and kernel internals.  
     Includes deep dives into system calls, device drivers, and hands-on kernel exploration.
 
-    [:octicons-arrow-right-24: Explore](linux/index.md)
+    [:octicons-arrow-right-24: Explore](linux/)
 
 -   :material-function-variant: **Mathematics**
 
@@ -27,7 +27,7 @@ from low-level systems to high-level machine learning concepts.
     Build the mathematical foundation required for computer science and machine learning.  
     Covers topics like discrete mathematics, probability, linear algebra, and optimization — explained intuitively and practically.
 
-    [:octicons-arrow-right-24: Explore](mathematics/index.md)
+    [:octicons-arrow-right-24: Explore](mathematics/)
 
 -   :material-brain: **AI & Machine Learning**
 
@@ -36,7 +36,7 @@ from low-level systems to high-level machine learning concepts.
     Understand the core ideas behind AI and ML — from fundamental concepts to real-world implementations.  
     Includes model architectures, algorithm breakdowns, research paper insights, and experiments.
 
-    [:octicons-arrow-right-24: Explore](ai-ml/index.md)
+    [:octicons-arrow-right-24: Explore](ai-ml/)
 
 </div>
 
