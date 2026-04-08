@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://akshaykumar-gunari.github.io/explore-with-ak/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://akshaykumar-gunari.github.io/explore-with-ak/linux/</loc>
+         <lastmod>2026-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://akshaykumar-gunari.github.io/explore-with-ak/linux/kernel/</loc>
+         <lastmod>2026-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://akshaykumar-gunari.github.io/explore-with-ak/linux/kernel/dma/</loc>
+         <lastmod>2026-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
