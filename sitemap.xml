@@ -20,4 +20,24 @@
          <lastmod>2026-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://akshaykumar-gunari.github.io/explore-with-ak/linux/kernel/protocols/</loc>
+         <lastmod>2026-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://akshaykumar-gunari.github.io/explore-with-ak/linux/kernel/protocols/i2c/</loc>
+         <lastmod>2026-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://akshaykumar-gunari.github.io/explore-with-ak/linux/kernel/protocols/i3c/</loc>
+         <lastmod>2026-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://akshaykumar-gunari.github.io/explore-with-ak/linux/kernel/protocols/spi/</loc>
+         <lastmod>2026-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
